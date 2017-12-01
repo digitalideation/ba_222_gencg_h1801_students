@@ -7,7 +7,7 @@ var strokeColor, canvas;
  
 function setup() {
   // Canvas setup
-  canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight-45);
   canvas.parent("p5Container");
   // Detect screen density (retina)
   var density = displayDensity();
