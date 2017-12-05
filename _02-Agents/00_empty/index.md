@@ -3,6 +3,10 @@ layout: sketch
 title: "title of the sketch" 
 category: "Experiment" 
 thumb_name: "thumb.jpg"
+includes:
+  - src: "sketch.js"
+  - src: "gui.js"
+  - src: "agent.js"
 ---
 
 <!-- 
