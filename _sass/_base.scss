@@ -167,6 +167,7 @@ header {
   text-align: center;
   color: white;
   .header-content {
+    display: none;
     position: relative;
     text-align: center;
     padding: 100px 15px 100px;
@@ -192,6 +193,7 @@ header {
   @media (min-width: 768px) {
     min-height: 100%;
     .header-content {
+      display: inline;
       position: absolute;
       top: 50%;
       -webkit-transform: translateY(-50%);
