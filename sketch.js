@@ -59,7 +59,6 @@ function draw() {
   endShape(CLOSE);
 }
 
-
 function keyPressed() {
   if (key == DELETE || key == BACKSPACE) background(360);  
   if (key == 's' || key == 'S') saveThumb(650, 350);
