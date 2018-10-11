@@ -1,10 +1,9 @@
-![di logo](https://raw.githubusercontent.com/gu-ma/ba_218_comppx_h1801/master/docs/assets/images/di-logo-small.jpg "di logo")
+![di logo](https://raw.githubusercontent.com/digitalideation/ba_222_gencg_h1801/master/docs/assets/images/di-logo-small.jpg "di logo")
 
 # Generative Computer Graphics - Winter 2018
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
-
 
 This repo hold students' work for the class "I.BA_222_GENCG.H1801 - Winter 2018" it is built on github pages (Jekyll).
 
